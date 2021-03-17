@@ -70,7 +70,7 @@ section .container h2 span.soon{
 .rotate-phone { 
   display: none ;
 }
-@media screen and (max-width: 666px) { 
+@media screen and (max-width: 890px) { 
   .main { 
   transform: scaleY(1.5);
   transform: scaleX(0.8);
